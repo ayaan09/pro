@@ -1,0 +1,65 @@
+.global{
+    display: flex;
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1350px;
+    min-width: 1350px;
+    padding: 0 10px;
+    
+    
+}
+label{
+    padding: 10px;
+}
+.tutor-form{
+margin-left: 17%;
+}
+.Chat{
+    flex:0.5;
+    padding-left: 10px;
+    overflow-y: scroll;
+    border-right: 2px solid white;
+    padding-right: 10px;
+    background-image: url('./1288076.jpg');
+}
+
+.Chat-box{
+    flex:0.5;
+    padding-left: 10px;
+    overflow-y: scroll;
+    border-right: 2px solid white;
+    padding-right: 10px;
+    padding: 10px;
+}
+.Chat::-webkit-scrollbar{
+    display: none;
+}
+.form{
+    margin-top: 10px;
+    display: flex;
+}
+
+.text-area-chat{
+    flex: 1;
+    margin-left: 20px;
+    font-size: 20px;
+    border: none;
+    min-height: 40px;
+    min-width:fit-content;
+    resize: none;
+    margin-right: 9px;
+    border: 1px solid var(--bg-color);
+    outline: none;
+    padding: 5px;
+    padding-left: 10px;
+    border-radius: 20px;
+}
+.send-btn{    
+    border: none !important;
+    color: white !important;
+    font-weight: 600 !important;
+    border-radius: 30px !important;
+    width: 80px;
+    height: 40px;
+    margin-left: auto !important;}

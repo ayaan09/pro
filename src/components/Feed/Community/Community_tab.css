@@ -1,0 +1,27 @@
+.join-btn{
+    background-color: #1DA1F2 !important;
+    border: none !important;
+    color: white !important;
+    font-weight: 900 !important;
+    border-radius: 30px !important;
+    width: 80px;
+    height: 40px;
+    margin-left: 10px !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+.community-tab{
+    background-color: white;
+    border: 4px solid var(--bg-color);
+    border-radius: 20px;
+}
+.cm-name{
+    font-weight: 900;
+    font-size: 1.3rem;
+    margin-left: 10px;
+}
+.cm-description{
+    font-weight: 400;
+    font-size: 1rem;
+    margin-left: 10px;
+}

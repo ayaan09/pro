@@ -1,0 +1,8 @@
+.arrowIcon:hover {
+    cursor: pointer;
+    color: blue
+  }
+  .Likebutton{
+      background-color: white;
+      border: none;
+  }

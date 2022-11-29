@@ -1,0 +1,18 @@
+.feedheader{
+    position: sticky;
+    top:0;
+     background-color: black;
+    /* background-image: url(https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); */
+    z-index: 100;
+    
+    border-left: 1px solid var(--bg-color);
+    padding: 15px 20px;
+    border-radius: 15px;
+}
+.feed_header_home{
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    color: beige;
+    display: inline;
+    /* text-align: center !important; */
+}

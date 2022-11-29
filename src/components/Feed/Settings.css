@@ -1,0 +1,204 @@
+/* @import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+
+.App {
+  margin-left: 200px;
+  margin-right: 200px;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.back{ 
+  position: relative;
+  left: 50px;
+  top: 50px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  font-size: 30px;
+  outline: none;
+}
+.back:hover{
+  background-color: rgb(230, 132, 41);
+  transition: 100ms;
+  color: white;
+}
+
+.logout{
+  position: relative;
+  bottom: 90px;
+  left:1400px;
+  margin-right: 10px;
+  margin-left: auto;
+  width: 100px;
+  height: 50px;
+  font-size: 17px;
+  cursor: pointer;
+  outline: none;
+  border-color: gray;
+  border-width: 1px;
+  border-radius: 10%;
+}
+.logout:hover {
+  transition: 100ms;
+  background-color: rgb(221, 96, 96);
+  color: white;
+  
+}
+
+.title{
+  position: relative;
+  top: -16px;
+  left: 120px;
+}
+
+.photo{
+  align-items: center;
+  justify-content: center;
+  text-align: center;  
+}
+
+.profile_picture {
+  border-radius: 50%;
+  height: 200px;
+  
+}
+
+.dp{
+  align-items: center;
+  text-align:  center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.editdp{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-left: 200px;
+  margin-top: -40px;
+  cursor: pointer;
+  outline: none;
+}
+
+.userName {
+  text-align: center;
+  font-size: 45px;
+}
+
+.userId {
+  text-align: center;
+  font-size: 25px;
+  margin-top: -45px;
+  font-family: monaco,Consolas,Lucida Console,monospace;
+}
+.bio {
+  text-align: center;
+  font-size: 27px;
+  margin-top: -30px;
+}
+
+.change_username{
+  position: relative;
+  left: 200px;
+  flex-direction: row;
+  display: inline-flex;
+  margin-left: 200px;
+  margin-right: 200px;
+  align-content: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.uninput{
+  margin-left: 400px;
+  margin-top: 20px;
+}
+
+.change_password{
+  position: relative;
+  left: 200px;
+  flex-direction: row;
+  display: inline-flex;
+  margin-left: 200px;
+  margin-right: 200px;
+  align-content: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.upinput{
+  margin-left: 405px;
+  margin-right: 0;
+  margin-top: 20px;
+}
+
+.update_bio{
+  position: relative;
+  left: 200px;
+  flex-direction: row;
+  display: inline-flex;
+  margin-left: 200px;
+  margin-right: 200px;
+  align-content: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.ubinput{
+  margin-left: 456px;
+  margin-top: 20px;
+}
+
+.usercontainer {
+  margin-left: 100px;
+  margin-right: 100px;
+  display: flex;
+  flex-direction: row;
+}
+
+.blocked-people {
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.removebtn{
+  margin-right: 250px;
+  margin-left: auto;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border-color: gray;
+  border-width: 1px;
+  cursor: pointer;
+  outline-style: none;
+  
+  
+}
+
+.list{
+  margin-left: 300px;
+}
+
+.about{
+  width: 100px;
+  height: 50px;
+  border-width: 0;
+  font-size: 20px;
+}
+
+.about:hover{
+  background-color: rgb(230, 132, 41);
+  transition: 100ms;
+  color: white;
+}
+
+.aboutdiv{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */

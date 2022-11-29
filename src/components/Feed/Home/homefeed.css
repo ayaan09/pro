@@ -1,0 +1,26 @@
+.homefeed{
+    flex:0.5;
+    border-right: 1px solid var(--bg-color);
+    /* min-width: fit-content; */
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    background-color: var(--bg-color);
+
+}
+
+.homefeed::-webkit-scrollbar{
+    display: none;
+}
+
+.endnote{
+    text-align: center;
+    margin-top: 15px;
+}
+.join-btn{
+    position: relative;
+    margin-left: 250px;
+}
+.feedheadhome{
+    border-top: 5px solid var(--bg-color);
+}

@@ -1,0 +1,19 @@
+.communitydiv{
+    flex:0.5;
+    background-color: var(--bg-color);
+    overflow-y: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+.communitydiv::-webkit-scrollbar{
+    display: none;
+}
+.searchbar-cm{
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}

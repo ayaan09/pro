@@ -1,0 +1,38 @@
+body {
+  background-color: #f1f3f8 !important;
+}
+
+form {
+  padding: 30px 30px;
+}
+
+button {
+  width: 100%;
+}
+
+.sform-container {
+  background-color: white;
+  width: 40%;
+  margin: auto;
+  margin-top: 30px;
+  text-align: center;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.sform-container h2 {
+  padding-top: 20px;
+}
+
+div a {
+  color: black;
+  text-decoration: underline;
+}
+
+.mb-3 p {
+  color: red;
+}
+
+.form-header {
+  font-family: 'Cabin';
+}

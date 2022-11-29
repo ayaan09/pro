@@ -1,0 +1,18 @@
+
+
+.feedheader{
+    position: sticky;
+    top:0;
+     background-color: black;
+    z-index: 100;
+    padding: 15px 20px;
+    border-radius: 15px;
+    flex: 0.5;
+}
+.chat_header_home{
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    color: beige;
+    display: inline;
+    /* text-align: center !important; */
+}

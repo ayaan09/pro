@@ -1,0 +1,49 @@
+.my_profile{
+    flex:0.5;
+    background-color: var(--bg-color);
+    overflow-y: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    border-right: 1px solid var(--bg-color);
+}
+.my_profile::-webkit-scrollbar{
+    display: none;
+}
+.prof-desc{
+    text-align: center;
+    margin-left: auto;
+    background-color: white;
+    margin-top: 3px;
+    padding: 6px;
+    border: 3px solid var(--bg-color);
+    border-radius: 20px;
+}
+.prof-pic{
+    display: flex;
+    align-self: center;
+    margin: auto;
+}
+.dp-name{
+    font-weight: 500;
+    font-size: 1.3rem;
+}
+.footer-of-profile{
+    padding-top: 10px;
+    text-align: center;
+}
+.bio{
+    font-family: cursive;
+}
+
+    
+.bio-holder{
+    flex: 1;
+    margin-left: 20px;
+    font-size: 20px;
+    border: none;
+    min-height: fit-content;
+    min-width: fit-content;
+    resize: none;
+    outline: none; 
+    overflow-y: auto;
+}

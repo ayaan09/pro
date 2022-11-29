@@ -1,0 +1,30 @@
+.ad {
+    color : black
+}
+
+.conn {
+    color: black;
+}
+
+.carousel{
+    margin-left: 10px;
+}
+
+.carousel-control-prev-icon {
+
+    background-color: gray;
+
+}
+
+.carousel-control-next-icon {
+
+    background-color: gray;
+
+}
+
+.sr-only {
+    background-color: gray;
+    color: white;
+    height: 32px;
+}
+

@@ -1,0 +1,19 @@
+
+
+.feedheader{
+    position: sticky;
+    top:0;
+     background-color: black;
+    z-index: 100;
+    
+    border-left: 1px solid var(--bg-color);
+    padding: 15px 20px;
+    border-radius: 15px;
+}
+.header_home{
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    color: beige;
+    display: inline;
+    /* text-align: center !important; */
+}

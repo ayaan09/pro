@@ -1,0 +1,10 @@
+.notifdiv{
+    flex:0.5;
+    overflow-y: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    background-color: white;
+}
+.notifdiv::-webkit-scrollbar{
+    display: none;
+}

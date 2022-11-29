@@ -1,0 +1,23 @@
+.sidebarOpt{
+    display: flex;
+    align-items: center;
+    padding: 17px;
+    }
+
+
+ .sidebarOpt :hover{
+    background-color: black !important; 
+    border-radius: 30px;
+    color: white;
+    cursor: pointer;
+    transition: color 200ms ease-out;
+     /* width: 100% !important; */
+}
+
+.text-bar{
+    font-weight: 600;
+    font-size: 20px;
+    /* margin-right: 20px;
+    margin-left: 20px; */
+    padding: 10px 15px;
+} 

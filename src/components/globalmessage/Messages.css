@@ -1,0 +1,40 @@
+.messages{
+    display: block;
+    background: var(--bg-color);
+    max-width: 70%;
+    min-width: 30%;
+    width: fit-content;
+    border-radius: 20px;
+    word-break: break-word;
+    padding: 5px;
+    
+    margin: 5px 0;
+    min-height: fit-content !important;
+}
+
+.mymessage{
+    display: block;
+    background: #00B2FF;
+    max-width: 70%;
+    min-width: 30%;
+    width: fit-content;
+    border-radius: 20px;
+    margin-left: auto;
+    padding: 5px;
+    margin-top: 5px;
+    word-break: break-word;
+    margin-bottom: 5px;
+    min-height: fit-content !important;
+}
+.userID{
+    font-weight: 600;
+    padding-left: 5px;
+}
+.content-msg{
+    max-width: 70%;
+    padding-left: 5px;
+}
+.time{
+    font-size: smaller;
+    padding-left: 5px;
+}
