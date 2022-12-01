@@ -88,7 +88,7 @@ function textme(event){
             name= "Tutors"
            />
            <div style={{fontSize:'1.3em', margin:'8px',padding:'5px' }}>
-            To sign up as a tutor please click <a href='https://sunnysocial.herokuapp.com/registration' style={{color:'blue'}}>here</a>
+            To sign up as a tutor please click <a href='https://sunnysocial.herokuapp.com/api/auth/registration' style={{color:'blue'}}>here</a>
            </div>
             {tutors.map(
             items=>(
